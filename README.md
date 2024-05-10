@@ -13,6 +13,7 @@ A mensagem de saudação é diferente de outras.
 * ![image](https://github.com/esequielsantos/ediBot/assets/83351241/a92867eb-1e59-421e-8d05-4750fc1c212d)
 
 * Finalização
-* ![image](https://github.com/esequielsantos/ediBot/assets/83351241/ca647632-d9aa-4ea6-82f5-9a778e85e22a)
+* ![image](https://github.com/esequielsantos/ediBot/assets/83351241/d1a4eda6-6efb-4bbc-a880-ec397bb738fa)
+
 
 
