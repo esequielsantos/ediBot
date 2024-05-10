@@ -12,8 +12,9 @@ A mensagem de saudação é diferente de outras.
 
 * ![image](https://github.com/esequielsantos/ediBot/assets/83351241/a92867eb-1e59-421e-8d05-4750fc1c212d)
 
-* Finalização
-* ![image](https://github.com/esequielsantos/ediBot/assets/83351241/d1a4eda6-6efb-4bbc-a880-ec397bb738fa)
+* Finalização do batepapo
+* ![image](https://github.com/esequielsantos/ediBot/assets/83351241/72c3d2a8-db2e-43b4-81fa-0c0f52f3a6fd)
+
 
 
 
