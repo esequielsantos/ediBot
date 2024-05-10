@@ -9,3 +9,6 @@ A mensagem de saudação é diferente de outras.
 
 * Atualizacao dia 10 de maio de 2024
 * Acrescentado o uso de GRADIO para simulação de um chatbot no proprio Colab
+
+* ![image](https://github.com/esequielsantos/ediBot/assets/83351241/a92867eb-1e59-421e-8d05-4750fc1c212d)
+
